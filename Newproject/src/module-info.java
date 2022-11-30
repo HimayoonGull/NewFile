@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author HIMAYOU
+ *
+ */
+module Newproject {
+}
